@@ -1,4 +1,4 @@
-# Guia Básico de Markdown
+# Guia Básico de Markdown - iniciante
 
 Markdown é uma linguagem de marcação leve que permite formatar texto de forma simples. Aqui estão alguns exemplos de como utilizá-lo.
 
